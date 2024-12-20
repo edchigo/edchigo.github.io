@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Japlans</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Japlans</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2024 16:19:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 20 Dec 2024 16:19:32 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text this is &lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;2nd-level&#34;&gt;2nd level&lt;/h2&gt;&#xA;&lt;h3 id=&#34;3rd-etc&#34;&gt;3rd etc&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
