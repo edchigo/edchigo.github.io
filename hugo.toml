@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://japlans.com'
 languageCode = 'en-us'
 title = 'Japlans'
 theme = 'hugo-theme-cleanwhite-master'
+
+[params]
+    header_image = "img/japan3.jpg"
