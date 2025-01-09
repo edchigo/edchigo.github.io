@@ -12,5 +12,6 @@ sectionPagesMenu = "main"
 description = "The last theme you'll ever need. Maybe."
 cover_dimming_class = "bg-black-40"
 recent_posts_number = 3
-featured_image_class = "cover bg-bottom"
+featured_image_class = "cover bg-center"
 background_color_class = "bg-black"
+
