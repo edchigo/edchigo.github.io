@@ -1,0 +1,16 @@
+baseURL = 'https://japlans.com'
+languageCode = 'en-gb'
+title = 'Japlans'
+theme = 'ananke'
+resourceDir = "images"
+sectionPagesMenu = "main"
+
+
+
+[params]
+
+description = "The last theme you'll ever need. Maybe."
+cover_dimming_class = "bg-black-40"
+recent_posts_number = 3
+featured_image_class = "cover bg-bottom"
+background_color_class = "bg-black"
