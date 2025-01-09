@@ -1,5 +1,5 @@
 ---
-date: '2025-01-09T14:48:58Z'
+date: '2025-01-02T14:48:58Z'
 draft: false
 title: 'Welcome to our adventure!'
 ---
