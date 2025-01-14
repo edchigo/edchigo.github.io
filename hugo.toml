@@ -14,4 +14,14 @@ cover_dimming_class = "bg-black-40"
 recent_posts_number = 3
 featured_image_class = "cover bg-center"
 background_color_class = "bg-black"
+site_logo = "Logo Seethrough2.png"
+favicon = "Logo.png"
+author = "Edward Read"
 
+[params.ananke.social.follow]
+networks = [
+  "instagram",
+]
+
+[params.ananke.social.instagram]
+username = "ourjaplans"
