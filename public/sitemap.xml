@@ -11,16 +11,17 @@
     <loc>http://localhost:1313/post/why-japan/</loc>
     <lastmod>2025-01-12T12:48:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/join-u/join-u/</loc>
-    <lastmod>2025-01-09T17:46:55+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/join-u/</loc>
+    <loc>http://localhost:1313/subscribe/</loc>
     <lastmod>2025-01-09T17:46:55+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/first-post/</loc>
     <lastmod>2025-01-02T14:48:58+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/new-itinerary/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/itinerary/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
