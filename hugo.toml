@@ -17,6 +17,7 @@ background_color_class = "bg-black"
 site_logo = "Logo Seethrough2.png"
 favicon = "Logo.png"
 author = "Edward Read"
+custom_css = ["custom.css"]
 
 [params.ananke.social.follow]
 networks = [
