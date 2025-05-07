@@ -1,5 +1,5 @@
 ---
-date: '2025-05-07T16:55:03+01:00'
+date: '2025-07-05T16:55:03+01:00'
 draft: 'false'
 title: 'Yoi Ryōko O'
 author: 'Edward Read'
