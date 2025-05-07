@@ -1,9 +1,9 @@
 ---
-date: '2025-07-05T16:55:03+01:00'
-draft: 'false'
+date: '2025-05-07'
+draft: false
 title: 'Yoi Ryōko O'
 author: 'Edward Read'
-omit_header_text: 'true'
+omit_header_text: true
 featured_image: 'IMG_4700.jpeg'
 ---
 

@@ -1,8 +1,8 @@
 ---
-date: '2025-01-02T14:48:58Z'
+date: '2025-01-02'
 draft: false
 title: 'Welcome to our adventure!'
-omit_header_text: "true"
+omit_header_text: true
 ---
 
 I remember it clearly, I sat in my desk chair in the bedroom of our university house, no doubt playing some kind of video game rather than completing any coursework. Sun beaming in through the white sheer curtains we'd put up for privacy at the beginning of the year. I was in my third year of University studying Geology, while Hannah was completing her Masters degree in Archaeological Science, the year was 2020 and Wales was still in a semi-lockdown. Hannah could leave the area for educational reasons, to attend Cardiff Uni, while I was bound to the local area, if not ideally the house itself. I remember hearing Hannah come home from morning lectures, calling up the stairs to say she was home, then after some time the bedroom door creaked open, Hannah stepped through the threshold with a smile on her face, saying one sentence that would set a course for the next five years of our lives. **"Hey Eddie? What would you think of living in Japan?"**

@@ -1,11 +1,11 @@
-+++
-date = '2025-04-06T16:55:03+01:00'
-draft = false
-title = 'What on Earth Is DisneySea?'
-author = 'Hannah Brooks'
-omit_header_text = 'true'
-featured_image = 'Disneysea.png'
-+++
+---
+date: '2025-04-06'
+draft: false
+title: 'What on Earth Is DisneySea?'
+author: 'Hannah Brooks'
+featured_image: 'Disneysea.png'
+omit_header_text: true
+---
 
 What on Earth is DisneySea?
 Well, as a massive Disney fan myself, I could argue that any Disney theme is worth the visit. However, what strikes out about DisneySea is that it is the only one of its kind in the world, and importantly, it is in Tokyo! The first place on our Itinerary! How could I not?

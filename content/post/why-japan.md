@@ -1,9 +1,9 @@
 ---
-date: '2025-01-12T12:48:10Z'
+date: '2025-01-12'
 draft: false
 title: 'Why Japan?'
-featured_image: "Japan City.png"
-omit_header_text: "true"
+featured_image: 'Japan City.png'
+omit_header_text: true
 ---
 
 As I'm sat here in a cosy cottage in Wales nestled in the Wye Valley, admiring the wonder and natural beauty of the landscape around me, I can't help but reflect on the similar wonders that attracted me to Japan in the first place. Now a question I've been asked more times than I can count, whenever I've mentioned over the years that I'm planning on travelling to Japan in the foreseeable future, **"Why Japan?** A simple question at first glance, and yet every time the question has been asked I've shrugged it off and mumbled some combination of "*The landscape*", "*The nerd culture*", "*The crazy technology*", never really being able to concisely answer on the spot. So, with some time, thought and discussion with Hannah I've tried to pin down the answer and put it on paper.
