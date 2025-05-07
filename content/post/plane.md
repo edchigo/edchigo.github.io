@@ -1,9 +1,9 @@
-+++ 
-date = '2025-05-07T16:55:03+01:00' 
-draft = false 
-title = 'Yoi Ryōko O' 
-author = 'Edward Read' 
-omit_header_text = 'true' 
++++
+date = '2025-05-07T16:55:03+01:00'
+draft = 'false'
+title = 'Yoi Ryōko O'
+author = 'Edward Read'
+omit_header_text = 'true'
 +++
 
 "Yoi Ryōko O", A warm message of farewell from my family, translating roughly to mean "Have a good trip!", and just like that we're off!
