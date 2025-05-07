@@ -7,7 +7,7 @@ omit_header_text: 'true'
 featured_image: 'IMG_4700.jpeg'
 ---
 
-"Yoi Ryōko O", A warm message of farewell from my family, translating roughly to mean "Have a good trip!", and just like that we're off!
+Yoi Ryōko O, A warm message of farewell from my family, translating roughly to mean "Have a good trip!", and just like that we're off!
 After what feels like an eternity of waiting, i'm now 8 hours into a 14 hour flight, hoping my hour of free wifi lasts long enough to type this out!
 
 As flights go, besides the slightly numb feeling after sitting for so long, it's not been so bad! Complimentary moist towels, pillows and blankets, and more food and free sake than you can imagine! Japan Airlines is pulling out all the stops to give us a comfortable journey!
