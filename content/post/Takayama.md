@@ -3,7 +3,7 @@ date: '2025-05-14'
 draft: false
 title: 'Takayama'
 omit_header_text: true
-
+featured_image: 'IMG_5122.jpeg'
 ---
 
 Takayama, famous for its nearby hot spring or onsen towns, stunning traditional residences, and as it turns out, its pristine canals and rivers which accommodate the towns koi fish during the warmer months, was a breath of fresh air after the albeit wondrous but fast paced and somewhat cramped Tokyo. 
