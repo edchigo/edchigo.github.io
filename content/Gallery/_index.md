@@ -6,7 +6,6 @@ omit_header_text: "true"
 custom_css: ["custom.css"]
 ---
 
-{{< instagram DJoHVf7zuUX >}}
 {{< instagram DJoGI2wTSw_ >}}
 {{< instagram DJlh767Tl5v >}}
 {{< instagram DJi_7wWTMk4 >}}
